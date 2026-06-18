@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento de invierno me congela la piel
+> Pero con tus labios tú me sabes a miel
+> Mami, tú y yo estamos en otro nivel
+> Cambiando la historia, quemando el papel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
