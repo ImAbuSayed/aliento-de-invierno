@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aliento de invierno
+
+This log tracks the cryptographic history and versioning for the song **Aliento de invierno** (aliento-de-invierno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:00:25.453719 | `v1` | `a7de1a8544b457b84b9cd5d7d3f2a05b25d6cd7ced1b1428d3ea245c4b720ec9` | `a32c3e9d6b6aad5ce2f15584b020a6939090b4bdae2f49d650e0c1f4efa3c866` | `2026-06-18_aliento-de-invierno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
